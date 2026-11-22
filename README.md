@@ -60,3 +60,5 @@ flowchart LR
 
 ---
 Built by [Alexander Tarica](https://alexandertarica.com), with collaborators on research and marketing.
+
+© 2026 Alexander Tarica. All rights reserved.
