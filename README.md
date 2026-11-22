@@ -27,9 +27,9 @@ I was using six apps to run my day, and none could answer the one question that 
 
 ## Traction
 
-TelemetryDeck, 30 days, mid-November 2026:
+**51** beta testers (November 2026)
 
-**47** beta testers · **1,712** sessions · **123** AI meal logs
+**1,712** sessions · **123** AI meal logs in 30 days (TelemetryDeck, mid-November 2026)
 
 - Reached beta build 28 about 14 weeks after the first commit
 - Startup Launch Award finalist, CPVC AI Hackathon (Cal Poly, Nov 2026), with a [separate version built that weekend](https://github.com/alexandertarica/koi)
