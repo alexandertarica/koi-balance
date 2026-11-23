@@ -29,7 +29,7 @@ I was using six apps to run my day, and none could answer the one question that 
 
 **51** beta testers (November 2026)
 
-**1,712** sessions · **123** AI meal logs in 30 days (TelemetryDeck, mid-November 2026)
+**2,678** sessions · **170** AI meal logs in 30 days, about **25** daily users (TelemetryDeck, November 2026)
 
 - Reached beta build 28 about 14 weeks after the first commit
 - Startup Launch Award finalist, CPVC AI Hackathon (Cal Poly, Nov 2026), with a separate version built that weekend
@@ -56,7 +56,7 @@ flowchart LR
 
 - **Shorter wins.** I cut onboarding from 16 steps to 7 and now record each step to see where people stop.
 - **Engagement isn't intent.** 51 people answered an Instagram poll; 9 signed up from Instagram.
-- **Measure the feedback.** Testers said text was hard to read, so I measured 81 pieces of on-screen text: 43 fell below the contrast guideline. Fixing that is next.
+- **Measure the feedback.** Testers said text was hard to read, so I measured 80 pieces of on-screen text: 43 fell below the contrast guideline. A redesign cuts that to about 18, and isn't released to testers yet.
 
 ---
 Built by [Alexander Tarica](https://alexandertarica.com), with collaborators on research and marketing.
